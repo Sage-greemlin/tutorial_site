@@ -1,0 +1,17 @@
+log {
+1 : 27 Dec 2025
+    I am using Vite { Currently relearning it}
+    planning { ongoing }
+    vite added
+
+2 : 1 Jan 2026
+    So leanrnign react with BroCode gives greate basics
+    but not the details I want. You can check it out here
+    { https://youtu.be/CgkZ7MvWUAA?si=Fsc90bd97u1vXKSH }
+    So i checked out How to add components here 
+    { https://youtu.be/Yz3Rfn_UJOo?si=vhZimFAgLimO95ej }
+    gives an Idea what to do but still need more directions.
+    lets try adding the components.
+    We set up the vite system wrong so let's try again.
+
+}
