@@ -14,4 +14,10 @@ log {
     lets try adding the components.
     We set up the vite system wrong so let's try again.
 
+3 : 2 Jan 2026
+    We added the componets after manualy having to add shadcn
+    manualy. Now we have insured the tools to work are fully functional.
+    next step using them for the very first time.
+    P.s my code is more than messy but it works.
+
 }
