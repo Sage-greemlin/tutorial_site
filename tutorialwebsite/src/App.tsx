@@ -1,12 +1,16 @@
 import { useState } from 'react'
 import './styles/globals.css'
-import { Button } from './components/ui/button'
+import './styles/headerstyle.css'
+import './styles/Footerstyle.css'
+import Header from './components/ui/header'
+import Footer from './components/ui/Footer'
 import { cn } from './lib/utils' 
 
 function App() {
   return (
-    <div className="flex items-center justify-center h-screen">
-      <Button variant={"outline"}>Click Me</Button>
+    <div>
+      <Header />
+      <Footer/>
     </div>
 
   );
